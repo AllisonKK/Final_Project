@@ -26,14 +26,14 @@ attacks, we explore multiple potential factors that may affect the sharks’ beh
 
 5.Results:
 
-(1) We can reject the null hypothesis that the temperature is independent to injury type.(<img src="http://latex.codecogs.com/gif.latex?\alpha/> = 0.05)
+(1) We can reject the null hypothesis that the temperature is independent to injury type.(alpha = 0.05)
 
   
-(2) We can reject the null hypothesis that the activity people doing when they are attacked and the injury type are independent of each other.
+(2) We can reject the null hypothesis that the activity people doing when they are attacked and the injury type are independent of each other.(alpha = 0.05)
 
-(3) We can reject the null hypothesis that the species of shark and injury type are independent of each other. 
+(3) We can reject the null hypothesis that the species of shark and injury type are independent of each other.(alpha = 0.05)
 
-**The results of chi-square test on three hypothesis are uploaded on GitHub named as R1.png, R2.png and R3.png. We can see that, all of the p-values are pretty small (<<0.05)**
+**The results of chi-square test on three hypothesis are uploaded on GitHub named as R1.png, R2.png and R3.png. We can see that, all of the p-values are pretty small (p-value << 0.05)**
 
 6.Reference: 
 
