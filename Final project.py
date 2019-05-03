@@ -243,7 +243,7 @@ def TemproraryHttpServer(page_content_type, raw_data):
         '''
 
     >>> TemproraryHttpServer(page_content_type, raw_data)
-
+    succeed
 
     """
 
@@ -281,6 +281,7 @@ def TemproraryHttpServer(page_content_type, raw_data):
 
     # run a temprorary http server
     httpd.serve_forever()
+    print("succeed")
 
 
 def run_html_server(html_data=None):
@@ -290,6 +291,7 @@ def run_html_server(html_data=None):
     :return: open the html file in the browser
     >>> html_data=None
     >>> run_html_server(html_data)
+    succeed
 
     """
 
@@ -312,6 +314,7 @@ def run_html_server(html_data=None):
 
     # run server
     TemproraryHttpServer('html', html_data)
+    print("succeed")
 
 # ------------------------------------------------------------------------------------------------
 
