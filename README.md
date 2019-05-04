@@ -4,17 +4,20 @@
 
 Research on the relationship between shark attack and some possible factors.
 
+
 2.Members:
 
 Saxue Wang: Sasha
 
 Qikun Liu: AllisonKK
 
+
 3.Summary:
 
   Shark attacks across the globe have doubled in the last 20 years, according to a recent study. Lots of people enjoy spending time beside
 the beaches and doing various activities, which makes them at the risk of being attacked by sharks. In order to reduce the chance of shark
 attacks, we explore multiple potential factors that may affect the sharks’ behavior.
+
 
 4.Hypothesis:
 
@@ -23,6 +26,7 @@ attacks, we explore multiple potential factors that may affect the sharks’ beh
 (2) The activity people doing when they are attacked have a relationship with the injury type (fatal or not). 
 
 (3) The species of shark have a relationship with the injury type (fatal or not).
+
 
 5.Results:
 
@@ -35,11 +39,13 @@ attacks, we explore multiple potential factors that may affect the sharks’ beh
 
 **The results of chi-square test on three hypothesis are uploaded on GitHub named as R1.png, R2.png and R3.png. We can see that, all of the p-values are pretty small (p-value << 0.05)**
 
+
 6.Codes:
 
 (1) "Final project.py" is the final integrated version code.
 
 (2) files in fold "jupyter notebook" are the previous versions.
+
 
 7. Reference: 
 
