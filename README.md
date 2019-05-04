@@ -35,13 +35,12 @@ attacks, we explore multiple potential factors that may affect the sharks’ beh
 
 **The results of chi-square test on three hypothesis are uploaded on GitHub named as R1.png, R2.png and R3.png. We can see that, all of the p-values are pretty small (p-value << 0.05)**
 
-6.Reference: 
-
-https://www.foxnews.com/science/shark-attacks-doubled-in-20-years-in-highly-populated-areas-study-finds
-
-
-7. Codes:
+6.Codes:
 
 (1) "Final project.py" is the final integrated version code.
 
 (2) files in fold "jupyter notebook" are the previous versions.
+
+7. Reference: 
+
+https://www.foxnews.com/science/shark-attacks-doubled-in-20-years-in-highly-populated-areas-study-finds
